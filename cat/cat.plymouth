@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=cat
+Description=display cat animation.
+Comment=created By Aditya Shakya (@adi1090x), mod by Geovanni Santamaria
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/cat
+ScriptFile=/usr/share/plymouth/themes/cat/cat.script
